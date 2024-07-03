@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ADMINISTRATOR_ONEDRIVE_DESKTOP_MYPROJECT_BIN_DEBUG_SOURCE_LIBSYSDB.MDF/True/SqlTable/dbo.tbUser.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\datasetbook.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:datasetbook.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\datasetcategories.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:datasetcategories.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\5mjblnmt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmunreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmunreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmunreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmunreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmmainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmmainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmprintreturnbookreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmprintreturnbookreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmprintreturnbookreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmprintreturnbookreceipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\report\\reportbook.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:report\\reportbook.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmmainframe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmmainframe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmmainframe.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmmainframe.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|c:\\users\\administrator\\onedrive\\desktop\\myproject\\frmmainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6214B637-FE57-410C-A2CA-FAF0159DAE14}|bookLibrary.csproj|solutionrelative:frmmainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\5mjblnmt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.tbUser [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ADMINISTRATOR_ONEDRIVE_DESKTOP_MYPROJECT_BIN_DEBUG_SOURCE_LIBSYSDB.MDF/True/SqlTable/dbo.tbUser.sql",
+              "ToolTip": "dbo.tbUser [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-29T08:02:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSetBook.xsd",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\DataSetBook.xsd",
+              "RelativeDocumentMoniker": "DataSetBook.xsd",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\DataSetBook.xsd",
+              "RelativeToolTip": "DataSetBook.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-29T08:01:38.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSetCategories.xsd",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\DataSetCategories.xsd",
+              "RelativeDocumentMoniker": "DataSetCategories.xsd",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\DataSetCategories.xsd",
+              "RelativeToolTip": "DataSetCategories.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-29T08:00:56.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\data.cs",
+              "RelativeDocumentMoniker": "data.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\data.cs*",
+              "RelativeToolTip": "data.cs*",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwFQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:45:52.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmReturn.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmReturn.cs",
+              "RelativeDocumentMoniker": "frmReturn.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmReturn.cs",
+              "RelativeToolTip": "frmReturn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:56:11.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmReturn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmReturn.cs",
+              "RelativeDocumentMoniker": "frmReturn.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmReturn.cs [Design]",
+              "RelativeToolTip": "frmReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:56:09.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmLogin.cs",
+              "RelativeToolTip": "frmLogin.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAlwCgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:53:53.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:53:47.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmBook.cs",
+              "RelativeDocumentMoniker": "frmBook.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmBook.cs [Design]",
+              "RelativeToolTip": "frmBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:52:05.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBook.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmBook.cs",
+              "RelativeDocumentMoniker": "frmBook.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmBook.cs",
+              "RelativeToolTip": "frmBook.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAIAwwM4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:52:10.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmReport.cs",
+              "RelativeDocumentMoniker": "frmReport.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmReport.cs [Design]",
+              "RelativeToolTip": "frmReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:48:05.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmReport.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmReport.cs",
+              "RelativeDocumentMoniker": "frmReport.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmReport.cs",
+              "RelativeToolTip": "frmReport.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAzwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:48:22.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmUnReturn.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmUnReturn.cs",
+              "RelativeDocumentMoniker": "frmUnReturn.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmUnReturn.cs",
+              "RelativeToolTip": "frmUnReturn.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAlwJAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:49:26.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\5mjblnmt..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\5mjblnmt..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-29T07:51:32.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmUnReturn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmUnReturn.cs",
+              "RelativeDocumentMoniker": "frmUnReturn.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmUnReturn.cs [Design]",
+              "RelativeToolTip": "frmUnReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:49:19.43Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmUser.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmUser.cs",
+              "RelativeDocumentMoniker": "frmUser.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmUser.cs",
+              "RelativeToolTip": "frmUser.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAhwKQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:49:12.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmUser.cs",
+              "RelativeDocumentMoniker": "frmUser.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmUser.cs [Design]",
+              "RelativeToolTip": "frmUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:49:02.199Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmPrintReturnBookReceipt.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmPrintReturnBookReceipt.cs",
+              "RelativeDocumentMoniker": "frmPrintReturnBookReceipt.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmPrintReturnBookReceipt.cs",
+              "RelativeToolTip": "frmPrintReturnBookReceipt.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAhwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:47:11.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmPrintReturnBookReceipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmPrintReturnBookReceipt.cs",
+              "RelativeDocumentMoniker": "frmPrintReturnBookReceipt.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmPrintReturnBookReceipt.cs [Design]",
+              "RelativeToolTip": "frmPrintReturnBookReceipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:47:05.195Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMainFrame.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmMainFrame.cs",
+              "RelativeDocumentMoniker": "frmMainFrame.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmMainFrame.cs",
+              "RelativeToolTip": "frmMainFrame.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAEwEwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:41:03.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "reportBook.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\REPORT\\reportBook.rdlc",
+              "RelativeDocumentMoniker": "REPORT\\reportBook.rdlc",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\REPORT\\reportBook.rdlc [Design]",
+              "RelativeToolTip": "REPORT\\reportBook.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-29T07:46:19.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmMainFrame.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmMainFrame.resx",
+              "RelativeDocumentMoniker": "frmMainFrame.resx",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmMainFrame.resx",
+              "RelativeToolTip": "frmMainFrame.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-29T07:45:13.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmMainFrame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmMainFrame.Designer.cs",
+              "RelativeDocumentMoniker": "frmMainFrame.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmMainFrame.Designer.cs",
+              "RelativeToolTip": "frmMainFrame.Designer.cs",
+              "ViewState": "AQIAAGwBAAAAAAAAAAAAAAABAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:43:07.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmMainFrame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmMainFrame.cs",
+              "RelativeDocumentMoniker": "frmMainFrame.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\myProject\\frmMainFrame.cs [Design]",
+              "RelativeToolTip": "frmMainFrame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:33:51.707Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

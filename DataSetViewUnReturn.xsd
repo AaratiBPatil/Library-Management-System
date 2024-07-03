@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetViewUnReturn" targetNamespace="http://tempuri.org/DataSetViewUnReturn.xsd" xmlns:mstns="http://tempuri.org/DataSetViewUnReturn.xsd" xmlns="http://tempuri.org/DataSetViewUnReturn.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="libSysDBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="libSysDBConnectionString (Settings)" PropertyReference="ApplicationSettings.bookLibrary.Properties.Settings.GlobalReference.Default.libSysDBConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="viewUnReturnBookTableAdapter" GeneratorDataComponentClassName="viewUnReturnBookTableAdapter" Name="viewUnReturnBook" UserDataComponentName="viewUnReturnBookTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="libSysDBConnectionString (Settings)" DbObjectName="viewUnReturnBook" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT borrowId, borrowDate, bookAccNo, bookTitle, borrowerId, borrowerName FROM viewUnReturnBook</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="borrowId" DataSetColumn="borrowId" />
+              <Mapping SourceColumn="borrowDate" DataSetColumn="borrowDate" />
+              <Mapping SourceColumn="bookAccNo" DataSetColumn="bookAccNo" />
+              <Mapping SourceColumn="bookTitle" DataSetColumn="bookTitle" />
+              <Mapping SourceColumn="borrowerId" DataSetColumn="borrowerId" />
+              <Mapping SourceColumn="borrowerName" DataSetColumn="borrowerName" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetViewUnReturn" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSetViewUnReturn" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DataSetViewUnReturn">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="viewUnReturnBook" msprop:Generator_RowEvHandlerName="viewUnReturnBookRowChangeEventHandler" msprop:Generator_RowDeletedName="viewUnReturnBookRowDeleted" msprop:Generator_RowDeletingName="viewUnReturnBookRowDeleting" msprop:Generator_RowEvArgName="viewUnReturnBookRowChangeEvent" msprop:Generator_TablePropName="viewUnReturnBook" msprop:Generator_RowChangedName="viewUnReturnBookRowChanged" msprop:Generator_RowChangingName="viewUnReturnBookRowChanging" msprop:Generator_TableClassName="viewUnReturnBookDataTable" msprop:Generator_RowClassName="viewUnReturnBookRow" msprop:Generator_TableVarName="tableviewUnReturnBook" msprop:Generator_UserTableName="viewUnReturnBook">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="borrowId" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnPropNameInRow="borrowId" msprop:Generator_ColumnPropNameInTable="borrowIdColumn" msprop:Generator_ColumnVarNameInTable="columnborrowId" msprop:Generator_UserColumnName="borrowId" type="xs:int" minOccurs="0" />
+              <xs:element name="borrowDate" msprop:Generator_ColumnPropNameInRow="borrowDate" msprop:Generator_ColumnPropNameInTable="borrowDateColumn" msprop:Generator_ColumnVarNameInTable="columnborrowDate" msprop:Generator_UserColumnName="borrowDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="bookAccNo" msprop:Generator_ColumnPropNameInRow="bookAccNo" msprop:Generator_ColumnPropNameInTable="bookAccNoColumn" msprop:Generator_ColumnVarNameInTable="columnbookAccNo" msprop:Generator_UserColumnName="bookAccNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bookTitle" msprop:Generator_ColumnPropNameInRow="bookTitle" msprop:Generator_ColumnPropNameInTable="bookTitleColumn" msprop:Generator_ColumnVarNameInTable="columnbookTitle" msprop:Generator_UserColumnName="bookTitle" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="borrowerId" msprop:Generator_ColumnPropNameInRow="borrowerId" msprop:Generator_ColumnPropNameInTable="borrowerIdColumn" msprop:Generator_ColumnVarNameInTable="columnborrowerId" msprop:Generator_UserColumnName="borrowerId" type="xs:int" minOccurs="0" />
+              <xs:element name="borrowerName" msprop:Generator_ColumnPropNameInRow="borrowerName" msprop:Generator_ColumnPropNameInTable="borrowerNameColumn" msprop:Generator_ColumnVarNameInTable="columnborrowerName" msprop:Generator_UserColumnName="borrowerName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
